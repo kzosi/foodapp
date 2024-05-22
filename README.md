@@ -16,9 +16,9 @@ python3 food_search.py
 ```
 After executing this command html file with recipes should appear in your directory
 ### Executing the unittests
-2. Open a terminal or command prompt.
-3. Navigate to the directory where you have cloned or downloaded this repository.
-4. Execute the tests using the following command:
+1. Open a terminal or command prompt.
+2. Navigate to the directory where you have cloned or downloaded this repository.
+3. Execute the tests using the following command:
 
 ```bash
 python3 -m unittest test_food_search.py
