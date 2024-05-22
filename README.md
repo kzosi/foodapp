@@ -4,7 +4,11 @@
 1. Change the food preferences in the main function of the food_search.py file
 2. Open a terminal or command prompt.
 3. Navigate to the directory where you have cloned or downloaded this repository.
-4. Setup the database using the following command:
+4. Install requirements:
+```bash
+if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+```
+5. Setup the database using the following command:
 
 ```bash
 python3 setup_database.py
